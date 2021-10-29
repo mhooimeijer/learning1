@@ -13,7 +13,7 @@
 */
 ?>
         <title>
-                TrustScore - Due Diligence Made Easy
+                TrustScore - Reimagining Due Diligence
         </title>
        <!-- <style>
         * { font-family: verdana; font-size: 10pt; COLOR: gray; }
